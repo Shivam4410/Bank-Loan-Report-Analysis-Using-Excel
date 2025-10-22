@@ -23,7 +23,7 @@ The primary purpose of this project is to:
 
 ## 📊 Dashboard Preview 
 
-**Summary dashboard**
+**Summary Dashboard**
 ![Dashboard](https://github.com/Shivam4410/Bank-Loan-Report-Analysis-Using-Excel/blob/main/Summary%20Dashboard.png)
 **Overview Dashboard**
 ![Dashboard](https://github.com/Shivam4410/Bank-Loan-Report-Analysis-Using-Excel/blob/main/Overview%20Dashboard.png)
