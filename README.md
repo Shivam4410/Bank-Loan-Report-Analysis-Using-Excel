@@ -28,6 +28,8 @@ The primary purpose of this project is to:
 **Overview Dashboard**
 ![Dashboard](https://github.com/Shivam4410/Bank-Loan-Report-Analysis-Using-Excel/blob/main/Overview%20Dashboard.png)
 
+> ⚡ Note: The screenshots provided above offer a high-level overview of the dashboard analysis. For an in-depth breakdown of each worksheet and detailed insights, please refer to the attached Excel file titled “Bank Loan Report” included in this repository.
+
 ---
 
 ## 🛠️ Tech Stack 
